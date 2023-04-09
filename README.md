@@ -54,3 +54,5 @@
 <a href="https://www.linkedin.com/in/lucas-bezerra-203464244"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;
 
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=52F747&height=120&section=footer"/>
